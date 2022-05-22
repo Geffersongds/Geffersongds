@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é  @Geffersongds
+- 👋 Olá meu nome é  **Gefferson**
 - 👀 Sou professor de penamento computacional
 - 🌱 Estou aprendendo a programar 
 ..
